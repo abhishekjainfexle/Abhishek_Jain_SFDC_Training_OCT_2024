@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Workshop</fullName>
+    <active>true</active>
+    <label>Workshop</label>
+    <picklistValues>
+        <picklist>Session_Type__c</picklist>
+        <values>
+            <fullName>Workshop</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
