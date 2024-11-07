@@ -16,7 +16,7 @@
 		<members>Training_Session__c.Feedback_Rating_Sum__c</members>
 		<members>Training_Session__c.Feedback_Record_count__c</members>
 		<members>Training_Session__c.Location__c</members>
-		<members>Training_Session__c.Session_Date__c</members>
+		<members>Training_Session__c.Session_Date__c</members>gi
 		<members>Training_Session__c.Session_Type__c</members>
 		<members>Training_Session__c.Total_Attendee__c</members>
 		<members>Training_Session__c.Webinar_Link__c</members>
